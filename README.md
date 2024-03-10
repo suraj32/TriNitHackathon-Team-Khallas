@@ -1,4 +1,4 @@
-# TriNitHackathon-Team-Khallas
+# TriNitHackathon-Team-Khallas-elec-03
 
 Drive which contains report file, .circ file, simulation video
 
